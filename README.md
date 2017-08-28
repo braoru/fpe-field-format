@@ -1,5 +1,8 @@
 # fpe-field-format
 
+![travis ci status](https://travis-ci.org/cloudtrust/fpe-field-format.svg?branch=master)
+
+
 This repository provides helpers to encipher various information such as credit cards, or string while preserving their format.
 The helpers use a mode for format-preserving encryption like FF1 or FF3 provided in [this](https://github.com/cloudtrust/fpe) repository.
 
